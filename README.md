@@ -1,2 +1,3 @@
 # python-machine-learning
-Repetición en Python del curso de Machine Learning de Andrew Ng
+
+Repetition of Andrew Ng's Machine Learning course in Python Language
